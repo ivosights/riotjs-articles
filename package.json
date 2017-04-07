@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --inline --watch --hot --colors -d --port 3000"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "jquery": "^3.2.1",
+    "riot": "^3.4.0",
+    "riot-tag-loader": "^1.0.0",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
